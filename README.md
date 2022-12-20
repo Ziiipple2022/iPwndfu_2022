@@ -68,7 +68,7 @@ pyenv install 2.7.18
 pyenv install 3.10.4
 pyenv global 2.7.18 3.10.4
 ```
-
+After : download the file, use this command : chmod +x COPYALLFILE
 Once all four commands are ran succesfully, then you can use ipwndfu.
 
 
